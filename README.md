@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**saialekya11729/saialekya11729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Sai Alekya Tulluri
+**Backend Software Engineer** — Python · FastAPI · AWS
+I build production backend services and REST APIs. Currently at HCLTech in Redmond, working on Python automation tooling and AWS CI/CD pipelines. Previously at Accenture Seattle, building billing and payment APIs and ML-powered document parsing.
+## Stack
+Python · FastAPI · Flask · SQL · AWS (Lambda, CDK, CloudFormation) · Docker · Kubernetes · PyTorch · SQLAlchemy · PostgreSQL · Redis · Kafka
+## Projects
+- [URL Shortener](https://github.com/saialekya11729/url-shortener) — FastAPI service with expiring links, click tracking, 49 pytest tests, async load harness
+- [Task Management REST API](https://github.com/saialekya11729/task-management-rest-api) — Flask, JWT auth, RBAC, PostgreSQL, Docker
+## Reach me
+- LinkedIn: https://www.linkedin.com/in/nagasait
